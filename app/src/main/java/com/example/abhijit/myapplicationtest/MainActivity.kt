@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         button_sign_up.setOnClickListener {
             if(!edit_text_first_name.text.isBlank())
             {
-                text_view_status_message.setText("success is test")
+                text_view_status_message.setText("success is testvc  v xvcxvcxvcxvcxvxcv xvxcv")
             }
         }
     }
